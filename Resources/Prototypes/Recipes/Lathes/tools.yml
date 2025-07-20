@@ -188,6 +188,14 @@
     Steel: 50
 
 - type: latheRecipe
+  id: UtilityBeltUniformPrinter
+  result: ClothingBeltUtility
+  category: Belts
+  completetime: 2
+  materials:
+    Cloth: 200
+
+- type: latheRecipe
   id: HolofanProjector
   result: HolofanProjectorEmpty
   category: Tools
