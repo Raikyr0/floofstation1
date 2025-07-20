@@ -1249,7 +1249,7 @@
 - type: latheRecipe
   id: ClothingHeadHatBeretSeniorPhysician
   result: ClothingHeadHatBeretSeniorPhysician
-  category: ClothingSecurity # Floof - add uniform printer clothing categories
+  category: ClothingMedical # Floof - add uniform printer clothing categories
   completetime: 2
   materials:
     Cloth: 100
