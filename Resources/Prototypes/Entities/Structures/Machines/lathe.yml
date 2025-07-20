@@ -1685,6 +1685,7 @@
       - ClothingUnderSocksChef
       - ClothingUniformChefThong
       - ClothingUniformNudityPermit
+      - UtilityBelt
       # Floofstation section end
   - type: EmagLatheRecipes
     emagStaticRecipes:
