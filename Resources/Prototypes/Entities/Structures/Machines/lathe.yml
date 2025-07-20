@@ -1685,7 +1685,21 @@
       - ClothingUnderSocksChef
       - ClothingUniformChefThong
       - ClothingUniformNudityPermit
-      - UtilityBelt
+      # Belt/Webbings
+      - UtilityBeltUniformPrinter
+      - ClothingBeltJanitor
+      - ClothingBeltAssault
+      - ClothingBeltMedical
+      - ClothingBeltMedicalEMT
+      - ClothingBeltPlant
+      - ClothingBeltChef
+      - ClothingBeltSecurity
+      - ClothingBeltHolster
+      - ClothingBeltSecurityWebbing
+      - ClothingBeltMercWebbing
+      - ClothingBeltSalvageWebbing
+      - ClothingBeltMilitaryWebbing
+      - ClothingBeltWand
       # Floofstation section end
   - type: EmagLatheRecipes
     emagStaticRecipes:
@@ -1711,6 +1725,7 @@
       - ClothingOuterWinterCentcom
       - ClothingOuterWinterSyndie
       - ClothingOuterWinterSyndieCap
+      - ClothingBeltSyndieHolster
       # Floofstation - Department Socks, Armwarmers ect
       - ClothingUniformSurgeonGerneralThong
   - type: MaterialStorage
